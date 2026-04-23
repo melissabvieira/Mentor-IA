@@ -10,42 +10,42 @@ A proposta é reduzir a indecisão sobre o que estudar e como crescer na área t
 
 ## 🚀 Funcionalidades
 
-- Coleta de informações do usuário (interesse, nível, objetivos e disponibilidade)  
-- Análise inteligente do perfil utilizando IA  
-- Identificação de pontos fortes e pontos de melhoria  
-- Sugestão de áreas de atuação dentro da tecnologia  
-- Recomendação de tecnologias e habilidades a serem desenvolvidas  
-- Geração de direcionamento profissional personalizado
+ - Coleta de informações do usuário (interesse, nível, objetivos e disponibilidade)  
+ - Análise inteligente do perfil utilizando IA  
+ - Identificação de pontos fortes e pontos de melhoria  
+ - Sugestão de áreas de atuação dentro da tecnologia  
+ - Recomendação de tecnologias e habilidades a serem desenvolvidas  
+ - Geração de direcionamento profissional personalizado
   
 ---
 
 ## 🧠 Tecnologias Utilizadas
 
-- HTML  
-- CSS  
-- TypeScript  
-- React  
-- Vite  
-- Integração com API de Inteligência Artificial (Gemini)  
+ - HTML  
+ - CSS  
+ - TypeScript  
+ - React  
+ - Vite  
+ - Integração com API de Inteligência Artificial (Gemini)  
 
 ---
 
 ## 💡 Como Funciona
 
 1. O usuário informa:
-   - Em qual trilha tecnológica você deseja se destacar? 
-   - Como você avalia seu conhecimento técnico hoje? Iniciante/Intermediario/ Avançado
-   - Qual sua meta profissional para os próximos 6 meses? 
-   - Quantas horas semanais você dedicará a este plano? 
+ - Em qual trilha tecnológica você deseja se destacar?
+ - Como você avalia seu conhecimento técnico hoje? Iniciante/Intermediario/ Avançado
+ - Qual sua meta profissional para os próximos 6 meses? 
+ - Quantas horas semanais você dedicará a este plano? 
 
 2. Os dados são enviados para a IA  
 
 3. A IA retorna:
-   - Análise do perfil atual  
-   - Principais pontos fortes  
-   - Pontos a melhorar
-   - Sugestão de carreira
-   - Tecnologias que deve aprender  
+ - Análise do perfil atual  
+ - Principais pontos fortes  
+ - Pontos a melhorar
+ - Sugestão de carreira
+ - Tecnologias que deve aprender  
 
 ---
 
