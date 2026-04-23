@@ -1,20 +1,73 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🤖 Mentor IA - Carreira em Tecnologia
 
-# Run and deploy your AI Studio app
+## 📌 Descrição
+O Mentor IA é uma aplicação que utiliza Inteligência Artificial para auxiliar usuários a descobrirem caminhos profissionais na área de tecnologia. Através da análise do perfil do usuário, a aplicação fornece sugestões personalizadas de carreira, habilidades a desenvolver e um roadmap de estudos.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/5f217367-8d16-4554-9a65-a279696b37c0
+## 🚀 Funcionalidades
 
-## Run Locally
+- Análise do perfil do usuário  
+- Sugestão de áreas da tecnologia (Front-end, Back-end, Dados, etc.)  
+- Recomendações de habilidades (hard e soft skills)  
+- Geração de roadmap de estudos personalizado  
+- Dicas para entrada no mercado de trabalho  
 
-**Prerequisites:**  Node.js
+---
 
+## 🧠 Tecnologias Utilizadas
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- HTML  
+- CSS  
+- JavaScript  
+- PHP  
+- API de Inteligência Artificial  
+
+---
+
+## 💡 Como Funciona
+
+1. O usuário informa:
+   - Área de interesse  
+   - Nível de conhecimento  
+   - Tecnologias já conhecidas  
+   - Objetivo profissional  
+
+2. Os dados são enviados para a IA  
+
+3. A IA retorna:
+   - Sugestão de carreira  
+   - Plano de estudos  
+   - Recomendações práticas  
+
+---
+
+## 📷 Exemplo de Uso
+
+**Entrada:**
+- Nível: Iniciante  
+- Interesse: Desenvolvimento Web  
+- Objetivo: Primeiro emprego  
+
+**Saída:**
+- Sugestão: Front-end  
+- Tecnologias: HTML, CSS, JavaScript  
+- Roadmap: Estudos básicos → Projetos → Portfólio  
+
+---
+
+## ⚙️ Como Executar
+
+```bash
+# Clonar o repositório
+git clone https://github.com/melissabvieira/Mentor-IA.git
+
+# Entrar na pasta
+cd Mentor-IA
+
+# Rodar em servidor local (ex: XAMPP) ou abrir index.html
+
+---
+## 🎯 Objetivo
+
+Aplicar Inteligência Artificial para ajudar usuários a tomarem decisões sobre carreira na área de tecnologia, oferecendo direcionamento claro e prático.
