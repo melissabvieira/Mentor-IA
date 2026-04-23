@@ -1,4 +1,4 @@
-# 🤖 Mentor IA - Carreira em Tecnologia
+# Mentor IA - Carreira em Tecnologia
 
 ## 📌 Descrição
 O Mentor IA é uma aplicação que utiliza Inteligência Artificial para auxiliar usuários a descobrirem caminhos profissionais na área de tecnologia. Através da análise do perfil do usuário, a aplicação fornece sugestões personalizadas de carreira, habilidades a desenvolver e um roadmap de estudos.
@@ -66,8 +66,3 @@ git clone https://github.com/melissabvieira/Mentor-IA.git
 cd Mentor-IA
 
 # Rodar em servidor local (ex: XAMPP) ou abrir index.html
-
----
-## 🎯 Objetivo
-
-Aplicar Inteligência Artificial para ajudar usuários a tomarem decisões sobre carreira na área de tecnologia, oferecendo direcionamento claro e prático.
