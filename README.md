@@ -104,7 +104,6 @@ SHAP/LIME: Bibliotecas para explicabilidade de modelos (essencial para o nível 
 🤝 Networking Ativo: Não envie apenas currículos. Participe de comunidades (Data Hackers, por exemplo) e interaja com pessoas que já são Plenos ou Seniores.
 🗣️ Storytelling em Entrevistas: Na entrevista para Pleno, foque no "Como". "Eu escolhi o algoritmo X porque ele era mais explicável para os diretores, apesar do algoritmo Y ter 1% a mais de acurácia". Isso mostra maturidade.
 
-Frase de incentivo: O nível Pleno não é alcançado apenas estudando mais, mas sim pensando de forma mais estratégica sobre os problemas que você resolve. 6 horas bem focadas valem mais que 20 horas sem rumo. Vamos pra cima! 🚀🔥
 ---
 
 ## ⚙️ Como Executar
